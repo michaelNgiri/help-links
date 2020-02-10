@@ -1,0 +1,2 @@
+configure babel to compile es6 laravel
+    https://github.com/babel/babel/issues/8655
