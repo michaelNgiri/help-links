@@ -1,4 +1,6 @@
 configure babel to compile es6 laravel
     https://github.com/babel/babel/issues/8655
 open files with sublime text on mac
-    https://apple.stackexchange.com/questions/146856/opening-apache-conf-file-with-write-permissions
+    https://apple.stackexchange.com/questions/146856/opening-apache-conf-file-with-write-permissionsd 
+add swap memory to prevent out of memory issues  -digitalocean
+    https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04
