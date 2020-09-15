@@ -6,3 +6,5 @@ add swap memory to prevent out of memory issues  -digitalocean
     https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04
 configure linting and prettier
     https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062
+setup cloudflare ssl
+    https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04
